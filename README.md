@@ -10,7 +10,7 @@ by adding `sanito` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:sanito, "~> 0.1.0"}
+    {:plug_healthz, "~> 0.1.0"}
   ]
 end
 ```

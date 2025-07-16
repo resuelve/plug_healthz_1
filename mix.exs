@@ -3,7 +3,7 @@ defmodule Sanito.MixProject do
 
   def project do
     [
-      app: :sanito,
+      app: :plug_healthz,
       version: "0.1.0",
       elixir: "~> 1.12",
       description: "Plug health check module",
@@ -17,7 +17,7 @@ defmodule Sanito.MixProject do
   defp package do
     [
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/erickgnavar/sanito"}
+      links: %{"GitHub" => "https://github.com/resuelve/sanito"}
     ]
   end
 
