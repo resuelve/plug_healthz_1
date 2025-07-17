@@ -17,7 +17,7 @@ defmodule Sanito.MixProject do
   defp package do
     [
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/resuelve/sanito"}
+      links: %{"GitHub" => "https://github.com/resuelve/plug_healthz"}
     ]
   end
 
